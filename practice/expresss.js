@@ -1,10 +1,10 @@
-const express = require('express')
-const fs = require('fs')
-const path = require("path")
+// const express = require('express')
+// const fs = require('fs')
+// const path = require("path")
 
 
-const port = 4040
-const app =express();
+// const port = 4040
+// const app =express();
 
 
 // const filePath = path.join(__dirname,req.url)

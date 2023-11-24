@@ -24,8 +24,7 @@ if(err){
 
 }else{
   alert('Login successful')
-}                          o                                                                       ;'''
-''[k]
+}  
   })
 
 }catch(e){

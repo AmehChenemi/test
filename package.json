@@ -49,5 +49,14 @@
   ],
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmehChenemi/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmehChenemi/test/issues"
+  },
+  "homepage": "https://github.com/AmehChenemi/test#readme",
   "description": ""
 }
